@@ -1,0 +1,20 @@
+.header-text {
+  text-align: center;
+}
+
+.section-header {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-list-item {
+  color: cyan;
+}
+
+#wrong-item {
+  text-decoration: line-through;
+}
+
+section:nth-child(odd) {
+  background: green;
+  color: white;
+}
